@@ -7,6 +7,7 @@ Hours required to complete: ~9-10
 
 Goals:
 
+<ul>
 <li>Revealed background color should be gray.</li>
 <li>When reschedule icon is revealed, semi-transparent and become fully opaque. If released at this point, message returns to its initial position.</li>
 
